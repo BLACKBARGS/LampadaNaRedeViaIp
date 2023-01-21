@@ -1,0 +1,17 @@
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\bin\Debug\net7.0\LampadaNaRedeViaIp.exe
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\bin\Debug\net7.0\LampadaNaRedeViaIp.deps.json
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\bin\Debug\net7.0\LampadaNaRedeViaIp.runtimeconfig.json
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\bin\Debug\net7.0\LampadaNaRedeViaIp.dll
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\bin\Debug\net7.0\LampadaNaRedeViaIp.pdb
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.csproj.AssemblyReference.cache
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.AssemblyInfoInputs.cache
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.AssemblyInfo.cs
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.csproj.CoreCompileInputs.cache
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.csproj.CopyComplete
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.dll
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\refint\LampadaNaRedeViaIp.dll
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.pdb
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\LampadaNaRedeViaIp.genruntimeconfig.cache
+C:\Users\itzsa\Desktop\LampadaNaRedeViaIp\obj\Debug\net7.0\ref\LampadaNaRedeViaIp.dll
