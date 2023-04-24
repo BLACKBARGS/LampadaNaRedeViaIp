@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itzsa\\Desktop\\LampadaNaRedeViaIp\\LampadaNaRedeViaIp.csproj",
+      "projectUniqueName": "C:\\Users\\itzsa\\OneDrive\\Documentos\\GitHub\\LampadaNaRedeViaIp\\LampadaNaRedeViaIp.csproj",
       "projectName": "LampadaNaRedeViaIp",
-      "projectPath": "C:\\Users\\itzsa\\Desktop\\LampadaNaRedeViaIp\\LampadaNaRedeViaIp.csproj",
+      "projectPath": "C:\\Users\\itzsa\\OneDrive\\Documentos\\GitHub\\LampadaNaRedeViaIp\\LampadaNaRedeViaIp.csproj",
       "packagesPath": "C:\\Users\\itzsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itzsa\\Desktop\\LampadaNaRedeViaIp\\obj\\",
+      "outputPath": "C:\\Users\\itzsa\\OneDrive\\Documentos\\GitHub\\LampadaNaRedeViaIp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itzsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
