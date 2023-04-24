@@ -10,7 +10,7 @@ class Program
         LampSettings lamp = new LampSettings()
         {
             IP = "192.168.100.11",
-            MAC = "28:6D:CD:07:91:07",
+            MAC = "MAC-ADRESS",
             Port = 8883,
             IsOn = false,
             Color = "white",
@@ -86,7 +86,7 @@ class Program
             byte[] command = Encoding.ASCII.GetBytes(turnOffCommand);
             stream.Write(command, 0, command.Length);
             lamp.IsOn = false;
-            Console.WriteLine("Lâmpada desligada!");
+            Console.WriteLine("Lâmpada desligada!!!");
         }
 
         Console.WriteLine("Programa finalizado.");
